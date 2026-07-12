@@ -1,5 +1,5 @@
 # 💫 About Me:
-A budding software engineer and an optimistic person looking for a challenging position that offers a positive atmosphere to learn and implement new skills and technologies.
+A Software engineer with a passion for learning new technologies, and building user-friendly solutions
 
 
 ## 🌐 Socials:
